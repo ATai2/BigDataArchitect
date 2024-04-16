@@ -6,17 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bigdata-redis" />
+        <module name="bigdata-spdemo" />
         <module name="bigdata-hadoop" />
         <module name="bigdata-zookeeper" />
+        <module name="bigdata-redis" />
         <module name="bigdata-spark" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="bigdata-hadoop" target="1.8" />
-      <module name="bigdata-redis" target="1.8" />
-      <module name="bigdata-spark" target="1.8" />
-      <module name="bigdata-zookeeper" target="1.8" />
       <module name="BigDataArchitect" target="1.8" />
       <module name="kjlkjk" target="1.8" />
     </bytecodeTargetLevel>
