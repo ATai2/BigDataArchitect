@@ -59,18 +59,19 @@ object lesson01_rdd_api01 {
 
 
 
-
+    println("----------cha-------------")
     //spark很人性，面向数据集提供了不同的方法的封装，且，方法已经经过经验，常识，推算出自己的实现方式
     //人不需要干预（会有一个算子）
-//    val rdd1: RDD[Int] = sc.parallelize( List( 1,2,3,4,5)  )
-//    val rdd2: RDD[Int] = sc.parallelize( List( 3,4,5,6,7)  )
+    val rdd1: RDD[Int] = sc.parallelize( List( 1,2,3,4,5)  )
+    val rdd2: RDD[Int] = sc.parallelize( List( 3,4,5,6,7)  )
 
 //    //差集：提供了一个方法：  有方向的
-//    val subtract: RDD[Int] = rdd1.subtract(rdd2)
-//    subtract.foreach(println)
+    val subtract: RDD[Int] = rdd1.subtract(rdd2)
+    subtract.foreach(println)
 
-//    val intersection: RDD[Int] = rdd1.intersection(rdd2)
-//    intersection.foreach(println)
+    println("----------intersection-------------")
+    val intersection: RDD[Int] = rdd1.intersection(rdd2)
+    intersection.foreach(println)
 
 
 //    //  如果数据，不需要区分每一条记录归属于那个分区。。。间接的，这样的数据不需要partitioner。。不需要shuffle
@@ -110,15 +111,20 @@ object lesson01_rdd_api01 {
       ("lisi", 23),
       ("zhaoliu", 28)
     ))
-
+    println("----------cogroup-------------")
     val cogroup: RDD[(String, (Iterable[Int], Iterable[Int]))] = kv1.cogroup(kv2)
 
     cogroup.foreach(println)
+    println("----------join-------------")
+    val value = cogroup.map(_._2)
+//    val value1 = value.flatMap(_)
+    value.foreach(println)
+//    value1.foreach(println)
 
+    println("----------join-------------")
+    val join: RDD[(String, (Int, Int))] = kv1.join(kv2)
 
-//    val join: RDD[(String, (Int, Int))] = kv1.join(kv2)
-//
-//    join.foreach(println)
+    join.foreach(println)
 //
 //    val left: RDD[(String, (Int, Option[Int]))] = kv1.leftOuterJoin(kv2)
 //

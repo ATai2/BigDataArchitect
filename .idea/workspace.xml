@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson01_rdd_api01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson02_rdd_api_sort.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson03_rdd_aggregator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson04_rdd_partitions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson05_rdd_gaoji.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson06_rdd_over.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson07_rdd_control.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson08_other.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson01_rdd_api01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson01_rdd_api01.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,41 +73,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lesson01_IF_WHILE_FOR.executor": "Run",
-    "Application.Lesson06_match.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.WordCountJava.executor": "Run",
-    "Application.WordCountScala.executor": "Run",
-    "Application.com.atai.WordCountScala.executor": "Run",
-    "Application.com.atai.lesson01_rdd_api01.executor": "Run",
-    "Application.lesson01_rdd_api01.executor": "Run",
-    "Application.lesson02_rdd_api_sort.executor": "Run",
-    "Application.ooxx.executor": "Run",
-    "Maven.bigdata-spark [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "temurin-1.8",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "D:/code/BigDataArchitect/bigdata-spdemo/src",
-    "last_opened_file_path": "D:/code/BigDataArchitect/bigdata-spdemo/src/main/java/com/atai",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2505747",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lesson01_IF_WHILE_FOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson06_match.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCountJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCountScala.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.atai.WordCountScala.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.atai.lesson01_rdd_api01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson01_rdd_api01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson02_rdd_api_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson03_rdd_aggregator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ooxx.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.bigdata-spark [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/code/BigDataArchitect/bigdata-spdemo/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/BigDataArchitect/bigdata-spdemo/src/main/java/com/atai&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2505747&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\BigDataArchitect\bigdata-spdemo\src\main\java\com\atai" />
       <recent name="$PROJECT_DIR$/bigdata-spark/src/main" />
       <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/java" />
       <recent name="$PROJECT_DIR$/bigdata-redis/src/main/resources" />
       <recent name="$PROJECT_DIR$/bigdata-redis/src/main/java" />
-      <recent name="$PROJECT_DIR$/bigdata-hadoop/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/bigdata-spark" />
@@ -136,7 +129,7 @@
       <recent name="com.msb.bigdata.hdfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.atai.lesson01_rdd_api01">
+  <component name="RunManager" selected="Application.lesson03_rdd_aggregator">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -159,20 +152,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordCountScala" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.spark.WordCountScala" />
-      <module name="bigdata-spark" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.msb.bigdata.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,13 +193,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson01_rdd_api01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.spark.lesson01_rdd_api01" />
-      <module name="bigdata-spark" />
+    <configuration name="lesson02_rdd_api_sort" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atai.lesson02_rdd_api_sort" />
+      <module name="bigdata-spdemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.msb.bigdata.spark.*" />
+          <option name="PATTERN" value="com.atai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson03_rdd_aggregator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atai.lesson03_rdd_aggregator" />
+      <module name="bigdata-spdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson03_rdd_aggregator" />
+        <item itemvalue="Application.lesson02_rdd_api_sort" />
         <item itemvalue="Application.com.atai.lesson01_rdd_api01" />
         <item itemvalue="Application.com.atai.WordCountScala" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.WordCountScala" />
-        <item itemvalue="Application.lesson01_rdd_api01" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713278516333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1713538969739</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713538969739</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +321,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
