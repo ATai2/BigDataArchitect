@@ -5,8 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/bigdata-ml/bigdata-ml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata-ml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata-ml/src/main/scala/com/atai/ml/LinearRegression002.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata-ml/src/main/scala/com/atai/ml/VectorTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/ml/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson01_rdd_api01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata-spdemo/src/main/java/com/atai/lesson01_rdd_api01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/graphx/followers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/graphx/followers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/graphx/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/graphx/users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/als/sample_movielens_ratings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/als/sample_movielens_ratings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/als/test.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/als/test.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/gmm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/gmm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/kittens/29.5.a_b_EGDP022204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/kittens/29.5.a_b_EGDP022204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/kittens/54893.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/kittens/54893.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/kittens/DP153539.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/kittens/DP153539.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/kittens/DP802813.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/kittens/DP802813.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/kittens/not-image.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/kittens/not-image.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/multi-channel/BGRA.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/multi-channel/BGRA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/multi-channel/BGRA_alpha_60.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/multi-channel/BGRA_alpha_60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/multi-channel/chr30.4.184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/multi-channel/chr30.4.184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/images/origin/multi-channel/grayscale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/images/origin/multi-channel/grayscale.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/kmeans_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/kmeans_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/pagerank_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/pagerank_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/pic_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/pic_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/ridge-data/lpsa.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/ridge-data/lpsa.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_binary_classification_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_binary_classification_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_fpgrowth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_fpgrowth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_isotonic_regression_libsvm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_isotonic_regression_libsvm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_kmeans_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_kmeans_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_lda_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_lda_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_lda_libsvm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_lda_libsvm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_libsvm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_libsvm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_linear_regression_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_linear_regression_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_movielens_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_movielens_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_multiclass_classification_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_multiclass_classification_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/sample_svm_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/sample_svm_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/mllib/streaming_kmeans_data_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mllib/streaming_kmeans_data_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/data/streaming/AFINN-111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/streaming/AFINN-111.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +118,15 @@
   &quot;keyToString&quot;: {
     &quot;Application.Lesson01_IF_WHILE_FOR.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lesson06_match.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearRegression002.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.WordCountJava.executor&quot;: &quot;Run&quot;,
     &quot;Application.WordCountScala.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.atai.WordCountScala.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.atai.lesson01_rdd_api01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.atai.ml.LinearRegression.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson01_rdd_api01.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson02_rdd_api_sort.executor&quot;: &quot;Run&quot;,
     &quot;Application.lesson03_rdd_aggregator.executor&quot;: &quot;Run&quot;,
@@ -91,12 +136,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-1.8&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;D:/code/BigDataArchitect/bigdata-spdemo/src&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/BigDataArchitect/bigdata-spdemo/src/main/java/com/atai&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/code/BigDataArchitect/bigdata-spdemo/src/main/java/com/atai/ml&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/BigDataArchitect/bigdata-spark&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2505747&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RebelAgentSelection">
@@ -104,18 +149,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\BigDataArchitect\bigdata-spark" />
       <recent name="D:\code\BigDataArchitect\bigdata-spdemo\src\main\java\com\atai" />
       <recent name="$PROJECT_DIR$/bigdata-spark/src/main" />
       <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/java" />
       <recent name="$PROJECT_DIR$/bigdata-redis/src/main/resources" />
-      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\BigDataArchitect\data" />
       <recent name="$PROJECT_DIR$/bigdata-spark" />
       <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/resources" />
       <recent name="$PROJECT_DIR$/bigdata-zookeeper" />
       <recent name="$PROJECT_DIR$/bigdata-redis" />
-      <recent name="$PROJECT_DIR$/bigdata-hadoop" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -129,7 +174,7 @@
       <recent name="com.msb.bigdata.hdfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson03_rdd_aggregator">
+  <component name="RunManager" selected="Application.LinearRegression002">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -145,13 +190,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atai.spark.Main" />
-      <module name="bigdata-spdemo" />
+    <configuration name="LinearRegression" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LinearRegression" />
+      <module name="bigdata-ml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearRegression002" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atai.ml.LinearRegression002" />
+      <module name="bigdata-ml" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="com.atai.ml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atai.ml.VectorTest" />
+      <module name="bigdata-ml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atai.ml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,41 +232,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.atai.WordCountScala" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atai.WordCountScala" />
-      <module name="bigdata-spdemo" />
+    <configuration name="com.atai.ml.LinearRegression" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atai.ml.LinearRegression" />
+      <module name="bigdata-ml" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.atai.lesson01_rdd_api01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atai.lesson01_rdd_api01" />
-      <module name="bigdata-spdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson02_rdd_api_sort" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atai.lesson02_rdd_api_sort" />
-      <module name="bigdata-spdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atai.*" />
+          <option name="PATTERN" value="com.atai.ml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,10 +279,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.lesson03_rdd_aggregator" />
-        <item itemvalue="Application.lesson02_rdd_api_sort" />
-        <item itemvalue="Application.com.atai.lesson01_rdd_api01" />
-        <item itemvalue="Application.com.atai.WordCountScala" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.atai.ml.LinearRegression" />
+        <item itemvalue="Application.VectorTest" />
+        <item itemvalue="Application.LinearRegression" />
+        <item itemvalue="Application.LinearRegression002" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713538969739</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1713702976668</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713702976668</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

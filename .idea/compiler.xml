@@ -11,6 +11,7 @@
         <module name="bigdata-zookeeper" />
         <module name="bigdata-redis" />
         <module name="bigdata-spark" />
+        <module name="bigdata-ml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

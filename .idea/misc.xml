@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/bigdata-spark/pom.xml" />
         <option value="$PROJECT_DIR$/bigdata-spdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/bigdata-ml/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

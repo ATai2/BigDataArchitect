@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata-ml/bigdata-ml.iml" filepath="$PROJECT_DIR$/bigdata-ml/bigdata-ml.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata-redis/bigdata-redis.iml" filepath="$PROJECT_DIR$/bigdata-redis/bigdata-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata-spark/bigdata-spark.iml" filepath="$PROJECT_DIR$/bigdata-spark/bigdata-spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata-spdemo/bigdata-spdemo.iml" filepath="$PROJECT_DIR$/bigdata-spdemo/bigdata-spdemo.iml" />
